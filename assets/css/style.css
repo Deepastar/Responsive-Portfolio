@@ -223,6 +223,74 @@ input[type=submit] {
 
   #masthead {
     width:100%;
+    overflow: auto;
+  }
+
+  .main-section {
+    width:60%;
+    margin: 40px, auto, auto, 40px;
+    margin:20px;
+  }
+
+  input[type=submit] {
+      width: 100px;
+  }
+
+  .footer {
+    width:100%;
+    margin-right:0;
+  }
+
+  .work {
+      width:20%;
+  }
+  
+  .work h3{
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .wrapper {
+    width: 100%;
+  }
+
+  #masthead {
+    width:100%;
+    overflow: auto;
+  }
+
+  .main-section {
+    width:60%;
+    margin: 40px, auto, auto, 40px;
+    margin:20px;
+  }
+
+  input[type=submit] {
+      width: 100px;
+  }
+
+  .footer {
+    width:100%;
+    margin-right:0;
+  }
+
+  .work {
+      width:20%;
+  }
+  
+  .work h3{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    width: 100%;
+  }
+
+  #masthead {
+    width:100%;
+    overflow: auto;
   }
 
   .main-section {
